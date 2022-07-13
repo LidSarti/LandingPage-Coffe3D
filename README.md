@@ -16,6 +16,4 @@
 <div>
     <h2>☕Resultado</h2>
     <img align="center" alt="ResultadoPC" src="./assets/img/ResultadoLandingPageCoffee3D.jpg">
-    <img align="center" alt="ResultadoCel02" src="./assets/img/ResultadoLandingPageCoffee3DCel02.jpg">
-    <img align="center" alt="ResultadoCel01" src="./assets/img/ResultadoLandingPageCoffee3DCel01.jpg">
 </div>
