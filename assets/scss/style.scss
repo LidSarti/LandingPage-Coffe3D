@@ -12,13 +12,6 @@
     --z-fixed: 100;
 }
 
-@media screen and (min-width: 768px) {
-    :root {
-        --big-font-size: 5rem;
-        --normal-font-size: 1rem;
-    }
-}
-
 *,::before,::after {
     box-sizing: border-box;
 }
@@ -221,5 +214,12 @@ img {
                 width: 604px;
             }
         }
+    }
+}
+
+@media screen and (min-width: 768px) {
+    :root {
+        --big-font-size: 5rem;
+        --normal-font-size: 1rem;
     }
 }
