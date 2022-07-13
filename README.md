@@ -1,6 +1,6 @@
 <div>
     <h1>🍑Responsive Landing Page</h1>
-    <p>O objetivo desse projeto foi desenvolver uma landing page responsiva utilizando animações do JavaScript, assim como práticar SCSS, conhecimentos que quero me aprofundar.</p>
+    <p>O objetivo desse projeto foi desenvolver uma landing page responsiva utilizando animações do JavaScript, assim como práticar SCSS, conhecimentos que quero me aprofundar.<br>Para isso segui o tutorial do <a href="https://github.com/bedimcode">@bedimcode</a>, foi muito aprendizado e meu primeiro contato com pré-processadore de CSS e animações utilizando JavaScript</p>
 </div>
 <div>
     <h2>💻Linguagens usadas<h2>
